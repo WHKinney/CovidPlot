@@ -1,0 +1,11 @@
+
+Code to plot Covid-19 infection data for Erie County and Amherst NY
+Date: 2020-04-08
+Author: Will Kinney, Dept. of Physics, Univ. a Buffalo, SUNY
+License: Code is public domain
+
+Please note that this is not an epidemiological model, and is not intented for forecasting
+purposes. Use responsibly. 
+
+Data source: https://erieny.maps.arcgis.com/apps/opsdashboard/index.html#/dd7f1c0c352e4192ab162a1dfadc58e1
+
